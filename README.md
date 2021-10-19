@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse project
 
-> One paragraph statement about the project.
+> set up of a "Hello world" repository. No complex coding
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
+- HTML, CSS
 - Frameworks
 - Technologies used
 
