@@ -13,6 +13,16 @@ Additional description about the project and its features.
 - HTML, CSS
 - stylelint
 
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+live server vscode extention
+### Setup
+Open with live server on vscode
+### Install
+no installations
+
 ## Authors
 
 👤 **Author1**
